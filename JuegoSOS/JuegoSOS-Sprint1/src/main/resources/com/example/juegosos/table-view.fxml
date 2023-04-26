@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="872.0" prefWidth="447.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.juegosos.TableController">
+   <children>
+      <ImageView fitHeight="872.0" fitWidth="447.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/desktop1.png" />
+         </image></ImageView>
+      <Button fx:id="btnRed" contentDisplay="CENTER" layoutX="100.0" layoutY="450.0" mnemonicParsing="false" onAction="#clickRedButton" style="-fx-background-color: #000000;" text="btnRed" textAlignment="CENTER" textFill="TRANSPARENT">
+         <graphic>
+            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/red.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button fx:id="btnBlue" contentDisplay="CENTER" layoutX="250.0" layoutY="450.0" mnemonicParsing="false" onAction="#clickBlueButton" style="-fx-background-color: #000000;" text="btnBlue" textFill="TRANSPARENT">
+         <graphic>
+            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/blue.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</Pane>
