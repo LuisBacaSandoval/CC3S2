@@ -1,8 +1,31 @@
-*** Juego SOS ***
+<h1>Juego SOS</h1>
 
-Link Figma: https://www.figma.com/file/3eTQwi8QtXbXGgt3oGKqbf/SOS-1st-Release?node-id=0-1&t=zHU4vVsQiYMYlypK-0
+<h2><i>Sprint 0</i></h2>
+Contenido:
+
+  - Lenguaje de programación
+  - Librería GUI
+  - Framework xUnit, entre otras decisiones para el proyecto.
 
 Link Sprint 0: https://docs.google.com/document/d/1DfF7BZL6Xak3zJZVxDDcxpXIbkymGDov/edit
+<hr>
+
+<h2><i>Sprint 1</i></h2>
+Contenido:
+
+  - Historias de usuario
+  - Criterios de aceptación
+
+
+
+
+
+
+
+
+
+
+Link Figma: https://www.figma.com/file/3eTQwi8QtXbXGgt3oGKqbf/SOS-1st-Release?node-id=0-1&t=zHU4vVsQiYMYlypK-0
 
 Link Sprint 1: https://docs.google.com/document/d/1wPO1eJrSPim_hW81NCE1WpiLZJRI8ImG/edit
 
