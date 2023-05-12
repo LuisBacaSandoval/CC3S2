@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="872.0" prefWidth="447.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.juegosos.WelcomeController">
+   <children>
+      <ImageView fitHeight="872.0" fitWidth="447.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../img/Welcome.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="btnStart" contentDisplay="CENTER" layoutX="141.0" layoutY="571.0" mnemonicParsing="false" onAction="#onButtonClickNextWindow" prefHeight="101.0" prefWidth="120.0" style="-fx-background-radius: 200; -fx-background-color: #A9A9A9;" text="Button" textFill="TRANSPARENT">
+         <graphic>
+            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/play.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</Pane>
