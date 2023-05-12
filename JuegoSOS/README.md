@@ -1,5 +1,39 @@
 <h1>Juego SOS</h1>
 
+<h2><i>Explicación contenido repositorio</i></h2>
+
+El repositorio contiene distintas carpetas, las cuales están identificadas de la siguiente manera: JuegoSOS-SprintX,
+donde por ejemplo si queremos ver el avance(código) del Sprint 2, la carpeta será JuegoSOS-Sprint2.
+Se deja una imagen de referencia para mostrar lo dicho anteriormente.
+
+![](https://github.com/LuisBacaSandoval/CC3S2/blob/main/JuegoSOS/img/img1.PNG)
+
+Si seguimos la siguiente ruta: JuegoSOS-Sprint4/src podremos visualizar dos carpetas.
+
+![](https://github.com/LuisBacaSandoval/CC3S2/blob/main/JuegoSOS/img/img2.PNG)
+
+<b><i>Código de producción</i></b>
+
+Ruta: JuegoSOS-Sprint4/src/main/java/com/example entontramos
+
+![](https://github.com/LuisBacaSandoval/CC3S2/blob/main/JuegoSOS/img/img3.PNG)
+
+- La carpeta juegosos contiene las clases(controladores) de los archivos fxml de la interfaz gráfica.
+- La carpeta juegososlogica contiene las clases de la parte lógica de la aplicación
+
+ Ruta:JuegoSOS-Sprint4/src/main/resource/com/example entontramos
+
+![](https://github.com/LuisBacaSandoval/CC3S2/blob/main/JuegoSOS/img/img4.PNG)
+
+- La carpeta img contiene las imágenes utilizadas como fondo de cada GUI.
+- La carpeta juegosos contiene los archivos fxml de cada GUI.
+
+<b><i>Código de pruebas</i></b>
+
+Ruta:JuegoSOS-Sprint4/src/test/java/com/example/juegososlogica entontramos las clases que contienen
+los test realizados.
+<hr>
+
 <h2><i>Sprint 0</i></h2>
 Contenido:
 
