@@ -58,7 +58,7 @@ Contenido:
   
   <b>Criterios de aceptación</b>
   
-  Tenermos 18 criterios de aceptación, identificados con un ID. Los criterios de aceptación tienen un estatus: Done, In 
+  Tenemos dieciocho criterios de aceptación, identificados con un ID. Los criterios de aceptación tienen un estatus: Done, In 
   Progress, To Do.
 
 <b><i>Entrega: 12/05/2023</i></b>
@@ -67,7 +67,7 @@ Contenido:
   
   <b>Historias de usuario</b>
   
-  Se agregaron 2 historias de usuario, estas historias de usuario están resaltadas en el documento correspondiente.
+  Se agregaron dos historias de usuario, estas historias de usuario están resaltadas en el documento correspondiente.
   
   <b>Criterios de aceptación</b>
   
@@ -134,4 +134,8 @@ Link Sprint 4: https://docs.google.com/document/d/1oh3CrXquas_8hCiPdSdYl_WcOO321
 
 Link Figma: https://www.figma.com/file/3eTQwi8QtXbXGgt3oGKqbf/SOS-1st-Release?node-id=0-1&t=zHU4vVsQiYMYlypK-0
 
-Link Video 1: https://drive.google.com/drive/folders/1FFeiaVfk1hkbStZYuL__wrUdOGryT1vR
+Link Video 1(Sprint 0, Spint 1, Sprint 2): https://drive.google.com/drive/folders/1FFeiaVfk1hkbStZYuL__wrUdOGryT1vR
+
+Link Video 2(Sprint 3): https://drive.google.com/drive/folders/1FFeiaVfk1hkbStZYuL__wrUdOGryT1vR
+
+Link Video 3(Sprint 4): https://drive.google.com/drive/folders/1FFeiaVfk1hkbStZYuL__wrUdOGryT1vR
