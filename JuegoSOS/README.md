@@ -72,10 +72,28 @@ Características del software:
   <li>Movimientos “S” en un tablero NxN</li>
   <li>Movimientos “O” en un tablero NxN</li>
   <li>Cambiar turno de los jugadores</li>
-  <li>Reiniciar el juego</li>
 </ul>
 
 Link Sprint 3: https://docs.google.com/document/d/1g3Jr7VY7fZILsarh9P_wWCb6Bis9zQMp/edit
+<hr>
+
+<h2><i>Sprint 4</i></h2>
+
+Características del software:
+
+<b><i>Código de producción</i></b>
+<ul>
+  <li>Reiniciar el juego</li>
+</ul>
+
+<b><i>Código de pruebas</i></b>
+<ul>
+  <li>Prueba de creación de tablero</li>
+  <li>Prueba de asignación de ficha al tablero</li>
+  <li>Prueba de creación de ficha</li>
+</ul>
+
+Link Sprint 4: https://docs.google.com/document/d/1oh3CrXquas_8hCiPdSdYl_WcOO321pxN/edit
 <hr>
 
 <h2><i>Links Adicionales</i></h2>
