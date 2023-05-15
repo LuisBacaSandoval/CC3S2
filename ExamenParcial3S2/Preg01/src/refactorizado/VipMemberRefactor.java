@@ -1,7 +1,7 @@
 package refactorizado;
-
-public class VipMemberRefactor extends MemberRefactor{
-    public VipMemberRefactor(String name){
+//Ahora esta clase, es subclase de MemberComplement, asi podra unirse y organizar torneos de ajedrez
+public class VipMemberRefactor extends MemberComplement{
+    public VipMemberRefactor(String name) {
         super(name);
     }
 

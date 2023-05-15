@@ -13,8 +13,8 @@ public class FreeMember extends Member{
 
     @Override
     public void organizeTournament() {
-        //Esta parte del código no es compatible con LSP
-        // Al pensar en generar una excepción estamos violando LSP
+        //Esta parte del código rompe con LSP
+        //Al pensar en generar una excepción estamos violando LSP
         System.out.println("No puede organizar torneos...");
     }
 }
